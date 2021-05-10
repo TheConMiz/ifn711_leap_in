@@ -7,3 +7,14 @@ because the amount over/under-spent could be redistributed to further extend its
 Though this imbalanced expenditure indicates the existence of under-spending members, the Team’s work
 will also account for over-spending members.
 ## Leap in! - Budget Utilisation
+Scope:
+1. Set up a Relational Database Service (RDS) on Amazon Web Services (AWS)
+within Jupyter Notebook.
+2. Query the Company’s cloud-based dataset.
+3. Adopt the Agile Framework to explore the dataset.
+4. Apply Clustering to isolate the several factors that cause the Company’s
+members to over/under-spend.
+5. Apply Association Mining to ascertain the general profile of an
+over/under-spending member.
+6. Apply predictive mining to early predict user likely under-spending
+7. Generate a well-structured and informative data visualization dashboard.
